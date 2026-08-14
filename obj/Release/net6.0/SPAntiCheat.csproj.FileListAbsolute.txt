@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\SP AntiCheat\bin\Release\net6.0\SPAntiCheat.deps.json
+C:\Users\Administrator\Desktop\SP AntiCheat\bin\Release\net6.0\SPAntiCheat.dll
+C:\Users\Administrator\Desktop\SP AntiCheat\obj\Release\net6.0\SPAntiCheat.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\SP AntiCheat\obj\Release\net6.0\SPAntiCheat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\SP AntiCheat\obj\Release\net6.0\SPAntiCheat.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\SP AntiCheat\obj\Release\net6.0\SPAntiCheat.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\SP AntiCheat\obj\Release\net6.0\SPAntiCheat.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SP AntiCheat\obj\Release\net6.0\SPAntiCheat.dll
+C:\Users\Administrator\Desktop\SP AntiCheat\obj\Release\net6.0\refint\SPAntiCheat.dll
+C:\Users\Administrator\Desktop\SP AntiCheat\obj\Release\net6.0\ref\SPAntiCheat.dll

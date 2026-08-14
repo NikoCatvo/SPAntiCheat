@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\system-reminder\bin\Release\net6.0\SystemReminder.deps.json
+C:\Users\Administrator\Desktop\system-reminder\bin\Release\net6.0\SystemReminder.dll
+C:\Users\Administrator\Desktop\system-reminder\obj\Release\net6.0\SystemReminder.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\system-reminder\obj\Release\net6.0\SystemReminder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\system-reminder\obj\Release\net6.0\SystemReminder.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\system-reminder\obj\Release\net6.0\SystemReminder.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\system-reminder\obj\Release\net6.0\SystemReminder.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\system-reminder\obj\Release\net6.0\SystemReminder.dll
+C:\Users\Administrator\Desktop\system-reminder\obj\Release\net6.0\refint\SystemReminder.dll
+C:\Users\Administrator\Desktop\system-reminder\obj\Release\net6.0\ref\SystemReminder.dll

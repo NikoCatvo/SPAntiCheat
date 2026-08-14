@@ -1,0 +1,1 @@
+// Deprecated file: functionality moved to ChatAcePatch.cs

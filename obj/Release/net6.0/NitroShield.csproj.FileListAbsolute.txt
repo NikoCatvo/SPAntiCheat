@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\NitroShield\obj\Release\net6.0\NitroShield.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\NitroShield\obj\Release\net6.0\NitroShield.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\NitroShield\obj\Release\net6.0\NitroShield.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\NitroShield\obj\Release\net6.0\NitroShield.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\NitroShield\obj\Release\net6.0\NitroShield.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\NitroShield\bin\Release\net6.0\NitroShield.deps.json
+C:\Users\Administrator\Desktop\NitroShield\bin\Release\net6.0\NitroShield.dll
+C:\Users\Administrator\Desktop\NitroShield\obj\Release\net6.0\NitroShield.dll
+C:\Users\Administrator\Desktop\NitroShield\obj\Release\net6.0\refint\NitroShield.dll
+C:\Users\Administrator\Desktop\NitroShield\obj\Release\net6.0\ref\NitroShield.dll
